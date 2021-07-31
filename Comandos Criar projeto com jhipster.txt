@@ -1,0 +1,7 @@
+--instalar jhipster
+npm install -g generator-jhipster
+
+--instalar jhipster dotnet
+
+--criar o projeto 
+jhipster --blueprints dotnetcore
